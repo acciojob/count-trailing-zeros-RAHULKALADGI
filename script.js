@@ -10,7 +10,7 @@ function trailingZeros(n) {
 		if(s.charAt(i)!='0') {
 			return ct;
 		}
-		ct++;
+		ct++; 
 	}
 	return ct;
 }
